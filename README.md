@@ -1,4 +1,7 @@
-### Hi there 👋
+![Tobi-D7's github stats](https://github-readme-stats.vercel.app/api?username=Tobi-D7&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-D7&layout=compact)
+
 
 <!--
 **Tobi-D7/Tobi-D7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
