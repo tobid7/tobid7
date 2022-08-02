@@ -2,14 +2,12 @@
 - [Flappy-Bird](https://github.com/NPI-D7/Flappy-Bird/) <img height="16" src="https://img.shields.io/github/downloads/NPI-D7/Flappy-Bird/total.svg?style=for-the-badge"> <a href="https://github.com/NPI-D7/Flappy-Bird/releases">
 - [RenderD7](https://github.com/NPI-D7/RenderD7/) (Library to make things easy)
 
-![Tobi-D7's github stats](https://github-readme-stats.vercel.app/api?username=Tobi-D7&show_icons=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-D7&layout=compact)
+![Tobi-D7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobi-D7&theme=dark&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yobi-D7&layout=compact&langs_count=10&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-D7&layout=compact&langs_count=10&theme=dark">
 <img src="https://github-profile-trophy.vercel.app/?username=Tobi-D7&theme=nord">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobi-D7&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobi-D7&theme=tokyonight)
 <!--
 **Tobi-D7/Tobi-D7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
