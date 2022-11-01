@@ -8,6 +8,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Tobi-D7&theme=nord">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobi-D7&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tobi-D7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **Tobi-D7/Tobi-D7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
