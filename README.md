@@ -4,7 +4,9 @@
 
 ![Tobi-D7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobi-D7&theme=dark&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-D7&layout=compact&langs_count=10&theme=dark">
+![https://api.githubtrends.io/user/svg/Tobi-D7/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves](https://api.githubtrends.io/user/svg/Tobi-D7/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)
+![https://api.githubtrends.io/user/svg/Tobi-D7/repos?time_range=one_year&loc_metric=changed&theme=synthwaves](https://api.githubtrends.io/user/svg/Tobi-D7/repos?time_range=one_year&loc_metric=changed&theme=synthwaves)
+
 <img src="https://github-profile-trophy.vercel.app/?username=Tobi-D7&theme=nord">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobi-D7&theme=tokyonight)
