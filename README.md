@@ -2,8 +2,10 @@
 ## 3ds
 | Project | Downloads | Version | Icon |
 |---------|-----------|---------|------|
-| [Flappy-Bird](https://github.com/NPI-D7/Flappy-Bird/) | <img height="22" src="https://img.shields.io/github/downloads/NPI-D7/Flappy-Bird/total.svg?style=for-the-badge"> <a href="https://github.com/NPI-D7/Flappy-Bird/releases"> | <img height="22" src="https://img.shields.io/github/tag/NPI-D7/Flappy-Bird.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/NPI-D7/Flappy-Bird/refs/heads/master/app/icon.png) |
-| [BCSTM-Player](https://github.com/NPI-D7/BCSTM-Player/) | <img height="22" src="https://img.shields.io/github/downloads/NPI-D7/BCSTM-Player/total.svg?style=for-the-badge"> <a href="https://github.com/NPI-D7/BCSTM-Player/releases"> | <img height="22" src="https://img.shields.io/github/tag/NPI-D7/BCSTM-Player.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/NPI-D7/BCSTM-Player/refs/heads/main/app/icon.png) |
+| [Flappy-Bird](https://github.com/npid7/Flappy-Bird/) | <img height="22" src="https://img.shields.io/github/downloads/npid7/Flappy-Bird/total.svg?style=for-the-badge"> <a href="https://github.com/npid7/Flappy-Bird/releases"> | <img height="22" src="https://img.shields.io/github/tag/npid7/Flappy-Bird.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/npid7/Flappy-Bird/refs/heads/master/app/icon.png) |
+| [BCSTM-Player](https://github.com/npid7/BCSTM-Player/) | <img height="22" src="https://img.shields.io/github/downloads/npid7/BCSTM-Player/total.svg?style=for-the-badge"> <a href="https://github.com/npid7/BCSTM-Player/releases"> | <img height="22" src="https://img.shields.io/github/tag/npid7/BCSTM-Player.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/npid7/BCSTM-Player/refs/heads/main/app/icon.png) |
+| [Craftus-Next](https://github.com/tobid7/Craftus-Next) | <img height="22" src="https://img.shields.io/github/downloads/tobid7/Craftus-Next/total.svg?style=for-the-badge"> <a href="https://github.com/tobid7/Craftus-Next/releases"> | <img height="22" src="https://img.shields.io/github/tag/tobid7/Craftus-Next.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/tobid7/Craftus-Next/refs/heads/main/app/icon.png) |
+| [imgui-impl-ctr](https://github.com/npid7/imgui-impl-ctr) | <img height="22" src="https://img.shields.io/github/downloads/npid7/imgui-impl-ctr/total.svg?style=for-the-badge"> <a href="https://github.com/npid7/imgui-impl-ctr/releases"> | <img height="22" src="https://img.shields.io/github/tag/npid7/imgui-impl-ctr.svg?style=for-the-badge"/></a>&nbsp; | ![Icon](https://raw.githubusercontent.com/npid7/imgui-impl-ctr/refs/heads/main/example/app/icon.png) |
 # Tools and Stuff
 ## Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -26,5 +28,20 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tobid7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tobid7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobid7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tobid7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tobid7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tobid7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Main Projects and Archive
-Everything Discontinued and old Stuff has been moved to [NPI-D7](https://github.com/NPI-D7) and [D7-Archive](https://github.com/Npi-D7-Archive)
+Everything Discontinued and old Stuff has been moved to [NPI-D7](https://github.com/npid7) and [D7-Archive](https://github.com/Npi-D7-Archive)
