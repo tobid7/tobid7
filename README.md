@@ -29,9 +29,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tobid7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tobid7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobid7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![tobid7's Stats](https://github-readme-stats.vercel.app/api?username=tobid7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
+![tobid7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobid7&theme=tokyonight&hide_border=true)<br/>
+![tobid7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobid7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tobid7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
